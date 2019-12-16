@@ -13,6 +13,12 @@ module.exports = BorrarEspacios;
 
 
 
+
+
+
+
+
+
 /* FUNCIONES
 1 - Hacer una funcion que reciba una palabra y un caracter. Debe borrar el primer caracter de la palabra que se envió;
 2 - Hacer una funcion que dado un array de numeros devolver el mayor;
