@@ -1,0 +1,19 @@
+{
+  "name": "fn",
+  "version": "1.0.0",
+  "main": "Funciones.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  },
+  "dependencies": {},
+  "description": ""
+}
